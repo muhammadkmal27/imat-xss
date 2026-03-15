@@ -5,7 +5,7 @@ Prerequisites
 Installation
 1. Clone the Repository
 ```
-git clone https://github.com/your-username/xss-scanner.git
+git clone https://github.com/muhammadkmal27/Project-XSS-Linux---Golang-Version.git
 cd xss-scanner
 ```
 2. Setup Modules & Dependencies

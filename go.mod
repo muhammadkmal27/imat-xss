@@ -1,4 +1,4 @@
-module github.com/muhammadkmal27/Project-XSS-Linux---Golang-Version
+module github.com/muhammadkmal27/imat-xss
 
 go 1.24.3
 

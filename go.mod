@@ -1,4 +1,4 @@
-module github.com/muhammadkmal27/Project-XSS-Linux---Golang-Version.git
+module github.com/muhammadkmal27/Project-XSS-Linux---Golang-Version
 
 go 1.24.3
 
